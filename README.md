@@ -1,16 +1,20 @@
-## Hi there 👋
+# こんにちは！伊庭 新（IBA ARATA）です 👋
 
-<!--
-**aracode-programming/aracode-programming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現在、フロントエンドエンジニアをしております。
+クリーンで使いやすいアプリケーションを作ることを目標に、新しい技術にどんどん挑戦しています！
 
-Here are some ideas to get you started:
+## 🚀 私について
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 現在取り組んでいること: Webサイト制作、Webアプリ開発
+- 現在学んでいる技術: React/TypeScript/Claude
+- 今後やってみたいこと: スマホアプリのリリース。GoやJavaの勉強。
+- 連絡先: aracode.programming@gmail.com
+
+## 💻 スキル
+
+- **Frontend:** HTML, CSS, TypeScript(Learning)、**React**(Learning)
+- **Tools:** Git, GitHub, VS Code, Notion, Figma, Supabase
+
+## 📈 GitHub ステータス
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aracode-programming&show_icons=true&theme=radical)
