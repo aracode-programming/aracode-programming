@@ -1,20 +1,18 @@
-# こんにちは！伊庭 新（IBA ARATA）です 👋
+# フリーランスWebエンジニアの伊庭 新（いば　あらた）です
 
-現在、フロントエンドエンジニアをしております。
-クリーンで使いやすいアプリケーションを作ることを目標に、新しい技術にどんどん挑戦しています！
+## 私について
 
-## 🚀 私について
+- 現在取り組んでいること: 受託でのLP・コーポレートサイト制作（累計20件以上）、個人開発SaaS「Lumoswipe」の開発、AIを活用した業務自動化システムの構築
+- 得意な技術: React / Next.js / TypeScript / Tailwind CSS / Figma
+- 現在学んでいる技術: Supabaseを用いたバックエンド設計、Figma MCPを活用したAI駆動開発ワークフロー
+- 今後やってみたいこと: 個人開発SaaS「Lumoswipe」の正式リリース、スマホアプリのリリース
+- 連絡先: [aracode.programming@gmail.com](mailto:aracode.programming@gmail.com)
 
-- 現在取り組んでいること: Webサイト制作、Webアプリ開発
-- 現在学んでいる技術: React/TypeScript/Claude
-- 今後やってみたいこと: スマホアプリのリリース。GoやJavaの勉強。
-- 連絡先: aracode.programming@gmail.com
+## スキル
 
-## 💻 スキル
-
-- **Frontend:** HTML, CSS, TypeScript(Learning)、**React**(Learning)
-- **Tools:** Git, GitHub, VS Code, Notion, Figma, Supabase
-
-## 📈 GitHub ステータス
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aracode-programming&show_icons=true&theme=radical)
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, **React**, Next.js, Astro, Tailwind CSS
+- **Backend / BaaS:** Supabase (Auth / DB / Storage), PHP（WordPress）, Shopify Liquid, GAS
+- **Design:** Figma, Figma MCP
+- **AI活用:** Cursor, Claude, Gemini, Perplexity
+- **Tools:** Git, GitHub, VS Code, Notion, Slack, Chatwork
+- **Infra:** Vercel, Cloudflare Pages, AWS
